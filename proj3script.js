@@ -7,7 +7,7 @@ var lastFMAPIKey = "b26e843b370e599dd936a01b8e7735b4";
 //This is my Eventful API key from a throwaway account for this specific project and also should not go here normally
 var eventfulAPIKey = "spwxHjTsPRbtfW7Q";
 
-//This is the URI of the PHP proxy script I created
+//This is the URI of the PHP proxy script that professor Jeffrey Sonstein provided for this project
 var proxyURI = "proj3proxy.php?url=";
 
 function init() {
