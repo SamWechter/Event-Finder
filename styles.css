@@ -1,0 +1,25 @@
+body {
+	background-color: #00DDCC;
+	height: 100%;
+	margin-left: 1em;
+}
+
+h1 {
+	text-align: center;
+	font-size: 300%;
+}
+
+#content {
+	font-size: 200%;
+}
+
+footer {
+	position: fixed;
+	height: 2em;
+	bottom:0;
+}
+
+#warnresults {
+	font-size: 300%;
+	
+}

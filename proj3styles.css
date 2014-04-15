@@ -1,0 +1,71 @@
+html {
+	 height: 100%;
+}
+body {
+	 height:100%;
+	 height: auto !important;
+	 margin: 1em 3em 0 3em;
+	 background: #999999;
+}
+#nav-bar {
+	 margin-top: -0.5em;
+	 margin-left: -2em;
+}
+#contentArea {
+	 width: 100%;
+	 height: 100%;
+	 margin-top: 1em;
+	 display: inline;
+}
+#mapCanvas {
+	 margin-right: 2em;
+	 height: 600px;
+	 width: 45%;
+	 float: left;
+	 display:inline;
+}
+#aboutDiv {
+	 float:left;
+	 width: 45%;
+}
+#leftColumn {
+	 display: block;
+	 width: inherit;
+	 float: left;
+}
+#eventsDiv {
+	 border-radius:25px;
+	 margin-right: 1em;
+	 margin-bottom: 3em;
+	 width: 45%;
+	 padding:1em;
+	 background: #333333;
+	 float: left;
+	 display:inline;
+}
+.eventDiv {
+	 border-radius:15px;
+	 padding:1em;
+	 margin: 0.5em;
+	 height:100%;
+	 background: #CCCCCC;
+}
+.eventTitle {
+	 color: red;
+	 font-weight: bold;
+	 font-size: x-large;
+}
+.eventVenue {
+	 font-weight: bold;
+	 font-size: large;
+}
+#controls {
+	 margin-bottom: 1em;
+	 display:inline;
+	 float:left;
+}
+.aboutP {
+	 margin: 2em;
+	 padding: 1em;
+	 background: white;
+}
