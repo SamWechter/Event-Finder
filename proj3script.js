@@ -1,14 +1,14 @@
 //This is the container for my google map object
 var map;
 
-//This is my lastFM API key and should NOT be stored here ideally
+//This is my lastFM API key from a throwaway account for this specific project and should NOT be stored here ideally
 var lastFMAPIKey = "b26e843b370e599dd936a01b8e7735b4";
 
-//This is my Eventful API key and also should not go here normally
+//This is my Eventful API key from a throwaway account for this specific project and also should not go here normally
 var eventfulAPIKey = "spwxHjTsPRbtfW7Q";
 
 //This is the URI of the PHP proxy script I created
-var proxyURI = "http://wechterproductions.com/nmcs/portfolio/webdev/Event_Finder/proj3proxy.php?url=";
+var proxyURI = "proj3proxy.php?url=";
 
 function init() {
 	 var mapOptions = {
