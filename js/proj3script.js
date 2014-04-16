@@ -1,10 +1,10 @@
 //This is the container for my google map object
 var map;
 
-//This is my lastFM API key
+//This is my lastFM API key and should not go here normally
 var lastFMAPIKey = "KEY_REMOVED";
 
-//This is my Eventful API key
+//This is my Eventful API key and should also not go here normally
 var eventfulAPIKey = "KEY_REMOVED";
 
 //This is the URI of the PHP proxy script that professor Jeffrey Sonstein provided for this project

@@ -7,6 +7,10 @@ body {
 	 margin: 1em 3em 0 3em;
 	 background: #999999;
 }
+h1 {
+	text-align: center;
+	font-size: 300%;
+}
 #nav-bar {
 	 margin-top: -0.5em;
 	 margin-left: -2em;
@@ -43,6 +47,11 @@ body {
 	 float: left;
 	 display:inline;
 }
+#controls {
+	 margin-bottom: 1em;
+	 display:inline;
+	 float:left;
+}
 .eventDiv {
 	 border-radius:15px;
 	 padding:1em;
@@ -58,11 +67,6 @@ body {
 .eventVenue {
 	 font-weight: bold;
 	 font-size: large;
-}
-#controls {
-	 margin-bottom: 1em;
-	 display:inline;
-	 float:left;
 }
 .aboutP {
 	 margin: 2em;
