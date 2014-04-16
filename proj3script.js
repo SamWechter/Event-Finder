@@ -1,11 +1,11 @@
 //This is the container for my google map object
 var map;
 
-//This is my lastFM API key from a throwaway account for this specific project and should NOT be stored here ideally
-var lastFMAPIKey = "b26e843b370e599dd936a01b8e7735b4";
+//This is my lastFM API key
+var lastFMAPIKey = "KEY_REMOVED";
 
-//This is my Eventful API key from a throwaway account for this specific project and also should not go here normally
-var eventfulAPIKey = "spwxHjTsPRbtfW7Q";
+//This is my Eventful API key
+var eventfulAPIKey = "KEY_REMOVED";
 
 //This is the URI of the PHP proxy script that professor Jeffrey Sonstein provided for this project
 var proxyURI = "proj3proxy.php?url=";
